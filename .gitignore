@@ -1,17 +1,39 @@
-# virtual environments
-.artifacts/
-.env
-
+# =========================
+# Virtual Environments
+# =========================
 venv/
 env/
+.env/
 
-# python cache
+# =========================
+# ML Artifacts / Outputs
+# =========================
+artifacts/
+catboost_info/
+*.pkl
+*.log
+
+# =========================
+# Python Cache
+# =========================
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
 
-# egg info
+# =========================
+# Egg Info
+# =========================
 *.egg-info/
 
-# editor
+# =========================
+# Editor / IDE
+# =========================
 .vscode/
+.idea/
 
+# =========================
+# OS Files
+# =========================
+.DS_Store
+Thumbs.db

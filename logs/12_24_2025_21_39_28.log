@@ -1,0 +1,10 @@
+[2025-12-24 21:39:59,020] 23 root - INFO - Data Ingestion started
+[2025-12-24 21:39:59,043] 26 root - INFO - Dataset read as dataframe
+[2025-12-24 21:39:59,050] 31 root - INFO - Raw data saved
+[2025-12-24 21:39:59,062] 34 root - INFO - Train-test split done
+[2025-12-24 21:39:59,066] 38 root - INFO - Ingestion of data is completed
+[2025-12-24 21:39:59,091] 74 root - INFO - Read train and test data completed
+[2025-12-24 21:39:59,092] 76 root - INFO - Obtaining preprocessor object
+[2025-12-24 21:39:59,092] 57 root - INFO - Numerical and categorical pipelines created
+[2025-12-24 21:39:59,096] 92 root - INFO - Applying preprocessing object on training and testing datasets.
+[2025-12-24 21:39:59,117] 102 root - INFO - Saved preprocessing object.

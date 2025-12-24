@@ -1,0 +1,12 @@
+[2025-12-24 21:47:58,552] 23 root - INFO - Data Ingestion started
+[2025-12-24 21:47:58,556] 26 root - INFO - Dataset read as dataframe
+[2025-12-24 21:47:58,560] 31 root - INFO - Raw data saved
+[2025-12-24 21:47:58,562] 34 root - INFO - Train-test split done
+[2025-12-24 21:47:58,566] 38 root - INFO - Ingestion of data is completed
+[2025-12-24 21:47:58,588] 74 root - INFO - Read train and test data completed
+[2025-12-24 21:47:58,588] 76 root - INFO - Obtaining preprocessor object
+[2025-12-24 21:47:58,589] 57 root - INFO - Numerical and categorical pipelines created
+[2025-12-24 21:47:58,589] 92 root - INFO - Applying preprocessing object on training and testing datasets.
+[2025-12-24 21:47:58,603] 102 root - INFO - Saved preprocessing object.
+[2025-12-24 21:47:58,609] 35 root - INFO - Splitting training and testing input data
+[2025-12-24 21:48:01,579] 69 root - INFO - Best model found: Linear Regression with R2 score: 0.8804332983749565
