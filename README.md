@@ -1,8 +1,3 @@
-Perfect 👍
-Main tumhare **exact project structure + ML pipeline** ke according **professional `README.md`** likh raha hoon.
-Direct **copy–paste** karke GitHub pe daal sakte ho.
-
----
 
 # 🎓 Student Performance Prediction System
 
